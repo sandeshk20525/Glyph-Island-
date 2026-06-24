@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Stylized Nothing Dynamic Island Capsule -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,46h48c4.4,0 8,3.6 8,8s-3.6,8 -8,8H30c-4.4,0 -8,-3.6 -8,-8S25.6,46 30,46z" />
+    
+    <!-- Central Camera Cutout inside capsule -->
+    <path
+        android:fillColor="#0D0D11"
+        android:pathData="M40,54a4,4 0 1,1 -8,0 4,4 0 1,1 8,0" />
+
+    <!-- Nothing Signature Red Dot Indicator Accent -->
+    <path
+        android:fillColor="#E11919"
+        android:pathData="M80,44a3,3 0 1,1 -6,0 3,3 0 1,1 6,0" />
+        
+</vector>

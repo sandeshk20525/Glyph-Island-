@@ -1,0 +1,6 @@
+{
+  "name": "Glyph Island",
+  "description": "Smart Dynamic Island and Glyph LED simulation manager for Nothing Phone (2a). Includes actual LSPosed module code and interactive preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
